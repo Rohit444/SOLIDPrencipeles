@@ -1,0 +1,12 @@
+** SOLID Principle **
+
+S -> Single responsibility Principle : A class should have only one reason to change.
+
+O -> Open Close Principle : Software entity should be open for extension but closed for modification
+
+L -> LisKov Substitution Principle : Subclass must be substitutable for their base type
+
+I -> Interface Segregation Principle : The dependency of one class to another once should depend on the smallest possible interface 
+									   Client should not forced to implement interfaces they don't use.
+
+D -> Dependency Inversion Principle : Depend upon abstractions (interfaces) not upon concrete classes.
